@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kyrylo Pantsiuk! <img src="https://media.giphy.com/media/hvRJCLz796NmdM3ScK/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Kyrylo Pantsiuk! </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack-MERN-blue?style=for-the-badge&logo=react">
