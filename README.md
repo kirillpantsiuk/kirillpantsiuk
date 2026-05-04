@@ -19,11 +19,11 @@
 ---
 
 ### 🌟 About Me
-I bridge the gap between complex business logic and intuitive user interfaces. My approach combines **System Analysis** with modern web technologies to ensure that every project is not just "coded," but well-architected from the start.
+I bridge the gap between complex business logic and intuitive user interfaces. My approach combines **System Analysis** with modern web technologies to ensure that every project is well-architected from the start.
 
 *   🔭 Currently focusing on my **Diploma Project** for construction management.
-*   📊 Expert in **System Analysis**: designing logic and optimizing data structures before writing a single line of code.
-*   🎨 **Design-to-Code**: Creating professional layouts in Figma and transforming them into responsive React applications.
+*   📊 **System Analysis Expertise**: I specialize in designing logic and optimizing data structures to build efficient software systems.
+*   🎨 **Design-to-Code**: I create professional layouts in Figma and transform them into pixel-perfect React applications.
 
 ---
 
@@ -60,31 +60,31 @@ I bridge the gap between complex business logic and intuitive user interfaces. M
 
 #### 🏗️ [Webapp Construction Company](https://github.com/kirillpantsiuk/Webapp_ConstructionCompany)
 My primary project (Diploma). A subsystem for planning and managing construction stages of one-story houses.
-*   **Role:** Full-cycle development (Analysis -> Design -> Implementation).
+*   **Role:** Full-cycle development from system analysis to UI/UX and backend implementation.
 *   **Tech:** React, Node.js, MongoDB, Figma.
 
 #### 🍃 [Mongo DB Course](https://github.com/kirillpantsiuk/Mongo_db_course)
-A deep dive into NoSQL database architecture, optimization, and data modeling.
-*   **Focus:** Advanced queries, indexing, and schema design for scalable applications.
+Comprehensive work with NoSQL database architecture, focusing on optimization and efficient data modeling.
+*   **Focus:** Advanced queries, indexing, and schema design for scalable web apps.
 
 ---
 
 ### 🧪 Quality & Tools
-I maintain high code quality by utilizing:
-*   **API Testing:** Postman for rigorous REST API verification.
-*   **Edge Computing:** Experience with Cloudflare Workers.
-*   **Version Control:** Clean and structured Git flow.
+I maintain high standards for my code using:
+*   **API Testing:** Extensive use of **Postman** for REST API verification.
+*   **Edge Computing:** Experience with **Cloudflare Workers** & KV storage.
+*   **Version Control:** Professional **Git** workflow.
 
 ---
 
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://t.me/your_username" target="blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your_profile" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/kirillpantsiuk" target="blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kyrylopants1uk" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kyrylopantsiuk33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <i>"Software is a combination of symbols and systems, but great software is about solving real problems."</i>
+  <i>"Great software is the perfect balance between robust logic and intuitive design."</i>
 </p>
