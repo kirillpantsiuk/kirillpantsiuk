@@ -8,38 +8,39 @@
 
 <p align="center">
   <b>Frontend Developer & UI/UX Designer</b> 🎨<br>
-  4th-year Computer Science student specializing in building structured, scalable web solutions.
+  4th-year Computer Science student at KrNU specializing in building structured, scalable web solutions.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirillpantsiuk&show_icons=true&theme=tokyonight" height="170" alt="stats report">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillpantsiuk&layout=compact&theme=tokyonight" height="170" alt="languages report">
+  <!-- Картинки статистики з твоїм нікнеймом kirillpantsiuk -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kirillpantsiuk&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats report">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillpantsiuk&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages report">
 </div>
 
 ---
 
-### 🌟 About Me
-I bridge the gap between complex business logic and intuitive user interfaces. My approach combines **System Analysis** with modern web technologies to ensure that every project is well-architected from the start.
+### 🌟 Про мене
+Я поєдную технічну розробку на стеку **MERN** із глибоким аналізом систем. Мій підхід базується на тому, що якісний код починається з грамотної архітектури та зручного дизайну.
 
-*   🔭 Currently focusing on my **Diploma Project** for construction management.
-*   📊 **System Analysis Expertise**: I specialize in designing logic and optimizing data structures to build efficient software systems.
-*   🎨 **Design-to-Code**: I create professional layouts in Figma and transform them into pixel-perfect React applications.
+*   🔭 **Дипломний проєкт**: Розробляю підсистему планування етапів будівництва одноповерхових будинків.
+*   📊 **Системна аналітика**: Вивчаю системний аналіз та використовую UML (Activity, Class, Use Case) та IDEF0 для моделювання логіки застосунків.
+*   🎨 **UI/UX Дизайн**: Самостійно розробляю макети у **Figma**, забезпечуючи повний цикл від ідеї до реалізації.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Стек технологій
 
 <table align="center">
   <tr>
     <td align="center" width="250"><b>Frontend</b></td>
     <td align="center" width="250"><b>Backend & DB</b></td>
-    <td align="center" width="250"><b>Design & Analysis</b></td>
+    <td align="center" width="250"><b>Analysis & Cloud</b></td>
   </tr>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square"> <br>
-      <img src="https://img.shields.io/badge/-JS_ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat-square"> <br>
-      <img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?logo=sass&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"> <br>
+      <img src="https://img.shields.io/badge/-HTML5/CSS3-E34F26?logo=html5&logoColor=white&style=flat-square">
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square"> <br>
@@ -48,36 +49,33 @@ I bridge the gap between complex business logic and intuitive user interfaces. M
     </td>
     <td>
       <img src="https://img.shields.io/badge/-System_Analysis-FFB000?style=flat-square"> <br>
-      <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square"> <br>
-      <img src="https://img.shields.io/badge/-AWS_Foundations-232F3E?logo=amazon-aws&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square"> <br>
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square">
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Основні проєкти
 
-#### 🏗️ [Webapp Construction Company](https://github.com/kirillpantsiuk/Webapp_ConstructionCompany)
-My primary project (Diploma). A subsystem for planning and managing construction stages of one-story houses.
-*   **Role:** Full-cycle development from system analysis to UI/UX and backend implementation.
-*   **Tech:** React, Node.js, MongoDB, Figma.
+#### 🏗️ [Webapp_ConstructionCompany](https://github.com/kirillpantsiuk/Webapp_ConstructionCompany)
+Підсистема для планування етапів будівництва. Це мій дипломний проєкт, де я закриваю всі етапи: від аналітики та дизайну до розробки.
+*   **Стек:** React, Node.js, MongoDB.
 
-#### 🍃 [Mongo DB Course](https://github.com/kirillpantsiuk/Mongo_db_course)
-Comprehensive work with NoSQL database architecture, focusing on optimization and efficient data modeling.
-*   **Focus:** Advanced queries, indexing, and schema design for scalable web apps.
+#### 🍃 [Mongo_db_course](https://github.com/kirillpantsiuk/Mongo_db_course)
+Репозиторій із напрацюваннями по NoSQL базах даних. Робота зі схемами, індексацією та оптимізацією запитів.
 
 ---
 
-### 🧪 Quality & Tools
-I maintain high standards for my code using:
-*   **API Testing:** Extensive use of **Postman** for REST API verification.
-*   **Edge Computing:** Experience with **Cloudflare Workers** & KV storage.
-*   **Version Control:** Professional **Git** workflow.
+### 🧪 Інструменти та якість
+*   **Postman**: Використовую для тестування REST API та верифікації запитів.
+*   **Cloudflare Workers**: Маю досвід розробки серверлес-рішень (наприклад, анонімні чат-боти).
+*   **Git**: Дотримуюсь чистої структури комітів та гілок.
 
 ---
 
-### 📫 Connect with me:
+### 📫 Контакти для зв'язку:
 
 <p align="left">
   <a href="https://t.me/kirillpantsiuk" target="blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -86,5 +84,5 @@ I maintain high standards for my code using:
 </p>
 
 <p align="center">
-  <i>"Great software is the perfect balance between robust logic and intuitive design."</i>
+  <i>"Професійна розробка — це баланс між надійною логікою та зручним дизайном."</i>
 </p>
