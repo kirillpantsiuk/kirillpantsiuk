@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kyrylo Pantsiuk! </h1>
+<h1 align="center">Hi, I'm Kyrylo Pantsiuk! <img src="https://media.giphy.com/media/hvRJCLz796NmdM3ScK/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack-MERN-blue?style=for-the-badge&logo=react">
@@ -39,7 +39,7 @@ I bridge the gap between complex business logic and intuitive user interfaces. M
     <td>
       <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square"> <br>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"> <br>
-      <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-MS_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square">
     </td>
     <td>
       <img src="https://img.shields.io/badge/-System_Analysis-FFB000?style=flat-square"> <br>
