@@ -11,24 +11,18 @@
   4th-year Computer Science student at KrNU specializing in building structured, scalable web solutions.
 </p>
 
-<div align="center">
-  <!-- Картинки статистики з твоїм нікнеймом kirillpantsiuk -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kirillpantsiuk&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats report">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillpantsiuk&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages report">
-</div>
+---
+
+### 🌟 About Me
+I bridge the gap between complex business logic and intuitive user interfaces. My approach combines **System Analysis** with modern web technologies to ensure that every project is well-architected from the start.
+
+*   🔭 **Diploma Project**: Developing a subsystem for planning the stages of construction of one-story houses.
+*   📊 **System Analysis**: Proficient in system modeling using UML (Activity, Class, Use Case) and IDEF0 to design robust software logic.
+*   🎨 **UI/UX Design**: I design professional mockups in **Figma** and translate them into pixel-perfect React applications.
 
 ---
 
-### 🌟 Про мене
-Я поєдную технічну розробку на стеку **MERN** із глибоким аналізом систем. Мій підхід базується на тому, що якісний код починається з грамотної архітектури та зручного дизайну.
-
-*   🔭 **Дипломний проєкт**: Розробляю підсистему планування етапів будівництва одноповерхових будинків.
-*   📊 **Системна аналітика**: Вивчаю системний аналіз та використовую UML (Activity, Class, Use Case) та IDEF0 для моделювання логіки застосунків.
-*   🎨 **UI/UX Дизайн**: Самостійно розробляю макети у **Figma**, забезпечуючи повний цикл від ідеї до реалізації.
-
----
-
-### 🛠️ Стек технологій
+### 🛠️ Tech Stack
 
 <table align="center">
   <tr>
@@ -57,25 +51,25 @@
 
 ---
 
-### 🚀 Основні проєкти
+### 🚀 Featured Projects
 
 #### 🏗️ [Webapp_ConstructionCompany](https://github.com/kirillpantsiuk/Webapp_ConstructionCompany)
-Підсистема для планування етапів будівництва. Це мій дипломний проєкт, де я закриваю всі етапи: від аналітики та дизайну до розробки.
-*   **Стек:** React, Node.js, MongoDB.
+My primary diploma project. A specialized system for managing construction stages, built with a full-cycle development approach.
+*   **Tech Stack:** React, Node.js, MongoDB, Figma.
 
 #### 🍃 [Mongo_db_course](https://github.com/kirillpantsiuk/Mongo_db_course)
-Репозиторій із напрацюваннями по NoSQL базах даних. Робота зі схемами, індексацією та оптимізацією запитів.
+A deep dive into NoSQL database architecture, focusing on indexing, schema optimization, and complex queries.
 
 ---
 
-### 🧪 Інструменти та якість
-*   **Postman**: Використовую для тестування REST API та верифікації запитів.
-*   **Cloudflare Workers**: Маю досвід розробки серверлес-рішень (наприклад, анонімні чат-боти).
-*   **Git**: Дотримуюсь чистої структури комітів та гілок.
+### 🧪 Tools & Quality
+*   **Postman**: Used for rigorous REST API testing and documentation.
+*   **Cloudflare Workers**: Experienced in building serverless solutions and anonymous messaging bots.
+*   **Git**: Committed to clean version control and structured workflows.
 
 ---
 
-### 📫 Контакти для зв'язку:
+### 📫 Let's Connect:
 
 <p align="left">
   <a href="https://t.me/kirillpantsiuk" target="blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -84,5 +78,5 @@
 </p>
 
 <p align="center">
-  <i>"Професійна розробка — це баланс між надійною логікою та зручним дизайном."</i>
+  <i>"Great software is the result of clean logic meeting intuitive design."</i>
 </p>
